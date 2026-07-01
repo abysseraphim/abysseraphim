@@ -1,6 +1,6 @@
 <div align="center">
 ```
-┌─[soroush@security]─[~]
+┌─[soroush@security]─[~]  
 └──╼ whoami
 ```
  
