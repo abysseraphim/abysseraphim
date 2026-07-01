@@ -66,10 +66,7 @@ Authentication Flow Analysis
 ```
 ---
 
-```
-┌─[soroush@security]─[~]
-└──╼ echo "manual-first. detail-obsessed. always digging one layer deeper."
-```
+***"manual-first. detail-obsessed. always digging one layer deeper."***
 
 ---
  
