@@ -1,7 +1,6 @@
 <div align="center">
 ```
 ┌─[soroush@security]─[~]
-
 └──╼ whoami
 ```
  
@@ -51,54 +50,59 @@ $ ls ./security
 ```
  
 **Web Application Security**
-OWASP Top 10 And More            
+```
+OWASP Top 10 And More
 Authentication Testing
-Authorization Testing   
+Authorization Testing
 Session Management
-Access Control           
+Access Control
 Attack Surface Mapping
-Web Reconnaissance      
+Web Reconnaissance
 Endpoint Discovery
-Static Analysis          
+Static Analysis
 Source-to-Sink Analysis
 Authentication Flow Analysis
 ```
  
 **Offensive Security**
 ```
-Ethical Hacking                    
+Ethical Hacking
 Web App Penetration Testing
-Bug Bounty Preparation             
+Bug Bounty Preparation
 Security Tool Development
 ```
  
 **Networking**
 ```
-Network Fundamentals   
-TCP/IP           
+Network Fundamentals
+TCP/IP
 HTTP / HTTPS
-DNS                    
-Ports & Services  Network Enumeration  
+DNS
+Ports & Services
+Network Enumeration
 Nmap (Network Analysis)
 ```
  
 ---
  
+```
 $ ls ./development
+```
  
 ```
-CLI Applications        
+CLI Applications
 Static Analysis Tools
-Automation               
+Automation
 File Processing
-Report Generation        
+Report Generation
 Modular Architecture
 ```
  
 ---
  
-
+```
 $ cat currently_learning.log
+```
  
 ```
 > Advanced Web Penetration Testing
@@ -107,47 +111,55 @@ $ cat currently_learning.log
 ```
  
 ---
-
+ 
+```
 $ ls ./tools
-
+```
  
 `Git` `GitHub` `VS Code` `Burp Suite` `Nmap` `Node.js` `Babel Parser`
-
  
-
-$ ps aux | grep projects
-
-```
-Project Status
-**Auth Flow Visualizer** | `[ACTIVE]` 
-```
-
 ---
-$ cat publications.md
-
+ 
 ```
+$ ps aux | grep projects
+```
+ 
+| Project | Status |
+|---|---|
+| **Auth Flow Visualizer** | `[ACTIVE]` |
+ 
+---
+ 
+```
+$ cat publications.md
+```
+ 
 **Author of the Cipher Stack Books**
 - Volume 1 — Dev
 - Volume 2 — Offense
+---
  
 ```
 $ cat open_source.md
 ```
  
-Building security-focused open source tools,
-developer tools,
-security automation,
+Building security-focused open source tools,  
+developer tools,  
+security automation,  
 and static analysis projects.
-
+ 
+---
+ 
 ```
-
 $ cat traits.log
 ```
-Fast Learner       
-Problem Solving      
+ 
+```
+Fast Learner
+Problem Solving
 Analytical Thinking
-Self Learner       
-Research Driven      
+Self Learner
+Research Driven
 Detail Oriented
 Curious Mindset
 ```
@@ -156,9 +168,9 @@ Curious Mindset
  
 <div align="center">
 ```
-┌─[soroush@security]─[~]  
- 
+┌─[soroush@security]─[~]
 └──╼ echo "manual-first. detail-obsessed. always digging one layer deeper."
 ```
  
 </div>
+ 
