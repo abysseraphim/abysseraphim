@@ -64,8 +64,6 @@ Static Analysis
 Source-to-Sink Analysis
 Authentication Flow Analysis
 ```
----
-
 ***"manual-first. detail-obsessed. always digging one layer deeper."***
 
 ---
