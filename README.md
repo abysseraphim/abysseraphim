@@ -69,8 +69,11 @@ Security Tool Development
  
 **Networking**
 ```
-Network Fundamentals   TCP/IP           HTTP / HTTPS
-DNS                    Ports & Services  Network Enumeration
+Network Fundamentals   
+TCP/IP           
+HTTP / HTTPS
+DNS                    
+Ports & Services  Network Enumeration  
 Nmap (Network Analysis)
 ```
  
@@ -81,9 +84,12 @@ $ ls ./development
 ```
  
 ```
-CLI Applications        Static Analysis Tools
-Automation               File Processing
-Report Generation        Modular Architecture
+CLI Applications        
+Static Analysis Tools
+Automation               
+File Processing
+Report Generation        
+Modular Architecture
 ```
  
 ---
