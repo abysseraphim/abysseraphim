@@ -149,8 +149,6 @@ security automation, and static analysis projects.
 ```
 $ cat traits.log
 ```
- 
-```
 Fast Learner       
 Problem Solving      
 Analytical Thinking
