@@ -18,7 +18,8 @@
 $ cat about.txt
 ```
  
-Self-taught security professional — building real tools, breaking real applications, and writing about what I learn along the way. Manual-first approach: I go deep before I automate.
+Self-taught security professional — building real tools, breaking real applications,  
+and writing about what I learn along the way. Manual-first approach: I go deep before I automate.
  
 - Application Security
 - Software Engineering (Programming)
@@ -114,12 +115,6 @@ $ ps aux | grep projects
 | Project | Status |
 |---|---|
 | **Auth Flow Visualizer** | `[ACTIVE]` |
-| Source-to-Sink Mapper | `[PLANNED]` |
-| API Behavior Analyzer | `[PLANNED]` |
-| Smart Recon Pipeline | `[PLANNED]` |
-| Attack Path Mapper | `[PLANNED]` |
-| Burp-lite Request Lab | `[PLANNED]` |
-| CTF Auto Analyzer | `[PLANNED]` |
  
 ---
  
@@ -136,7 +131,8 @@ $ cat publications.md
 $ cat open_source.md
 ```
  
-Building security-focused open source tools, developer tools, security automation, and static analysis projects.
+Building security-focused open source tools, developer tools,
+security automation, and static analysis projects.
  
 ---
  
