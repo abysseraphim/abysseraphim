@@ -64,6 +64,14 @@ Static Analysis
 Source-to-Sink Analysis
 Authentication Flow Analysis
 ```
+---
+
+```
+┌─[soroush@security]─[~]
+└──╼ echo "manual-first. detail-obsessed. always digging one layer deeper."
+```
+
+---
  
 **Offensive Security**
 ```
@@ -164,14 +172,4 @@ Research Driven
 Detail Oriented
 Curious Mindset
 ```
- 
----
- 
-<div align="center">
-```
-┌─[soroush@security]─[~]
-└──╼ echo "manual-first. detail-obsessed. always digging one layer deeper."
-```
- 
-</div>
  
