@@ -123,9 +123,8 @@ $ ls ./tools
 $ ps aux | grep projects
 ```
  
-| Project | Status |
-|---|---|
-| **Auth Flow Visualizer** | `[ACTIVE]` |
+Project Status
+**Auth Flow Visualizer** | `[ACTIVE]` 
  
 ---
  
@@ -152,8 +151,12 @@ $ cat traits.log
 ```
  
 ```
-Fast Learner       Problem Solving      Analytical Thinking
-Self Learner       Research Driven      Detail Oriented
+Fast Learner       
+Problem Solving      
+Analytical Thinking
+Self Learner       
+Research Driven      
+Detail Oriented
 Curious Mindset
 ```
  
@@ -161,7 +164,7 @@ Curious Mindset
  
 <div align="center">
 ```
-┌─[soroush@security]─[~]
+┌─[soroush@security]─[~]  
 └──╼ echo "manual-first. detail-obsessed. always digging one layer deeper."
 ```
  
