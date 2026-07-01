@@ -51,7 +51,6 @@ $ ls ./security
 ```
  
 **Web Application Security**
-```
 OWASP Top 10 And More            
 Authentication Testing
 Authorization Testing   
@@ -85,9 +84,7 @@ Nmap (Network Analysis)
  
 ---
  
-```
 $ ls ./development
-```
  
 ```
 CLI Applications        
@@ -100,9 +97,8 @@ Modular Architecture
  
 ---
  
-```
+
 $ cat currently_learning.log
-```
  
 ```
 > Advanced Web Penetration Testing
@@ -111,42 +107,40 @@ $ cat currently_learning.log
 ```
  
 ---
- 
-```
+
 $ ls ./tools
-```
+
  
 `Git` `GitHub` `VS Code` `Burp Suite` `Nmap` `Node.js` `Babel Parser`
 
  
-```
+
 $ ps aux | grep projects
+
 ```
- 
 Project Status
 **Auth Flow Visualizer** | `[ACTIVE]` 
- 
+```
+
 ---
- 
-```
 $ cat publications.md
+
 ```
- 
 **Author of the Cipher Stack Books**
 - Volume 1 — Dev
 - Volume 2 — Offense
----
  
 ```
 $ cat open_source.md
 ```
  
-Building security-focused open source tools, developer tools,
-security automation, and static analysis projects.
- 
----
- 
+Building security-focused open source tools,
+developer tools,
+security automation,
+and static analysis projects.
+
 ```
+
 $ cat traits.log
 ```
 Fast Learner       
@@ -163,6 +157,7 @@ Curious Mindset
 <div align="center">
 ```
 ┌─[soroush@security]─[~]  
+ 
 └──╼ echo "manual-first. detail-obsessed. always digging one layer deeper."
 ```
  
