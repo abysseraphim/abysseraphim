@@ -67,8 +67,9 @@ Authentication Flow Analysis
  
 **Offensive Security**
 ```
-Ethical Hacking                    Web App Penetration Testing
-Bug Bounty Preparation             CTF Player
+Ethical Hacking                    
+Web App Penetration Testing
+Bug Bounty Preparation             
 Security Tool Development
 ```
  
@@ -116,8 +117,7 @@ $ ls ./tools
 ```
  
 `Git` `GitHub` `VS Code` `Burp Suite` `Nmap` `Node.js` `Babel Parser`
- 
----
+
  
 ```
 $ ps aux | grep projects
