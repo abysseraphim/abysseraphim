@@ -52,11 +52,16 @@ $ ls ./security
  
 **Web Application Security**
 ```
-OWASP Top 10            Authentication Testing
-Authorization Testing   Session Management
-Access Control           Attack Surface Mapping
-Web Reconnaissance      Endpoint Discovery
-Static Analysis          Source-to-Sink Analysis
+OWASP Top 10 And More            
+Authentication Testing
+Authorization Testing   
+Session Management
+Access Control           
+Attack Surface Mapping
+Web Reconnaissance      
+Endpoint Discovery
+Static Analysis          
+Source-to-Sink Analysis
 Authentication Flow Analysis
 ```
  
