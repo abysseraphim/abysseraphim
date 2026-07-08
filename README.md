@@ -12,6 +12,7 @@
 `Manual-first. Detail-obsessed. Always digging one layer deeper.`
  
 </div>
+
 ---
  
 ```
