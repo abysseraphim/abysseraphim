@@ -31,7 +31,15 @@ and writing about what I learn along the way. Manual-first approach: I go deep b
 - Technical Writing
 - Continuous Learning
 ---
- 
+
+```
+$ cat workflow.md
+```
+Local-first development: projects are built and refined locally
+until they reach a stable, usable state before being published.
+
+---
+
 ```
 $ ls ./stack
 ```
