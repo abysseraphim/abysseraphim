@@ -147,6 +147,12 @@ $ ps aux | grep projects
 | Project | Status |
 |---|---|
 | **Auth Flow Visualizer** | `[ACTIVE]` |
+| **Lurak** | `[ACTIVE]` |
+| **Taint Hound** | `[ACTIVE]` |
+| **HT-Detective** | `[ACTIVE]` |
+| **FreeCollapse** | `[ACTIVE]` |
+| **Http Request Lab** | `[ACTIVE]` |
+| **Paramancer** | `[ACTIVE]` |
  
 ---
  
