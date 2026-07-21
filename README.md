@@ -18,7 +18,7 @@
 ```
 $ which personal-space
 ```
-[![Portfolio](https://img.shields.io/badge/Portfolio-abysseraphim.github.io-black?style=for-the-badge&logo=github)](https://abysseraphim.github.io)
+[![Portfolio | Resume | Personal Space](https://img.shields.io/badge/Portfolio-abysseraphim.github.io-black?style=for-the-badge&logo=github)](https://abysseraphim.github.io)
 
 ---
  
